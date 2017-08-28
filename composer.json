@@ -1,7 +1,7 @@
 {
     "name": "ngtfkx/laradeck-helpers",
     "type": "library",
-    "description": ":package_description",
+    "description": "A set of useful Laravel helper functions",
     "keywords": [
         "ngtfkx",
         "laradeck-helpers"
